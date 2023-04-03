@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Hvad hedder du?"
+      img: "Ako sa voláš?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Hvordan har du det?"
+      img: "Ako sa máš?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Jeg har det fint."
+      img: "Som v pohode."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Hvad er det her?"
+      img: "Čo je toto?"
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Hvor er du?"
+      img: "Kde si?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Jeg er hjemme."
+      img: "Som doma."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Hvor skal du hen?"
+      img: "Kam ideš?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Jeg er så begejstret!"
+      img: "Som tak nadšená!"
     },
     {
       name: '9',
@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Hvor gammel er du?"
+      img: "Koľko máš rokov?"
     },
     {
       name: '10',
-      img: "Jeg er 7 år gammel."
+      img: "Mám 7 rokov"
     },
     {
       name: '10',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: "Har du en søster eller bror?"
+      img: "Máš sestru alebo brata?"
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Hvordan er vejret i dag?"
+      img: "Aké je dnes počasie?"
     }
   ]
 

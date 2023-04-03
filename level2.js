@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Nej, det har jeg ikke."
+      img: "Nie, nemám."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Solen skinner og det er varmt."
+      img: "Slnko svieti a je teplo."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Hvad vil du gerne lave?"
+      img: "Čo by si chcel robiť?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Jeg vil gerne ud."
+      img: "Chcel by som ísť von."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Undskyld mig, hvem er du?"
+      img: "Prepáčte, kto ste?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Hej, jeg hedder Tom."
+      img: "Ahoj, volám sa Tom."
     },
     {
       name: '7',
@@ -55,15 +55,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Er Tom en god ven?"
+      img: "Je Tom dobrý kamarát?"
     },
     {
       name: '8',
-      img: "Ne. Není."
+      img: "No, he isn´t."
     },
     {
       name: '8',
-      img: 'Nej. Han er ikke.'
+      img: 'Nie. Nie je.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Den høje dreng er min ven."
+      img: "Ten vysoký chlapec je môj priateľ."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Kom her og sæt dig ned."
+      img: "Poď sem a sadni si."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: "Michelle, lån mig venligst din pen."
+      img: "Michelle, požičaj mi svoje pero, prosím."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Lad os lege med en bold."
+      img: "Poďme sa hrať s loptou."
     }
   ]
 

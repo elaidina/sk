@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Flasken er tom."
+      img: "Tá fľaša je prázdna."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Har du en flaske?"
+      img: "Máš nejakú fľašu?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Nej, jeg har ingen flaske.'
+      img: 'Nie, nemám žiadnu fľašu.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Jeg er nødt til at gå hjem."
+      img: "Musím ísť domov."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Hvorfor skal du gå?"
+      img: "Prečo musíš ísť?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Jeg er meget træt."
+      img: "Som veľmi unavený."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Hvor er din bil?"
+      img: "Kde máš auto?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Jeg husker det ikke."
+      img: "Nepamätám si."
     },
     {
       name: '9',
@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Jeg har en gave til dig."
+      img: "Mám pre teba darček."
     },
     {
       name: '10',
-      img: "Jeg vil se det."
+      img: "Chcem to vidieť."
     },
     {
       name: '10',
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Den er stor og smuk.'
+      img: 'Je to veľké a krásne.'
     },
     {
       name: '11',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Giv mig boksen.'
+      img: 'Daj mi tú krabicu.'
     }
   ]
 

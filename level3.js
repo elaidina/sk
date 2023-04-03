@@ -7,7 +7,7 @@
     },
     {
       name: '1',
-      img: "Er det din taske?"
+      img: "To je tvoja taška?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@
     },
     {
       name: '2',
-      img: "Hvad har du i hånden?"
+      img: "Čo to máš v ruke?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@
     },
     {
       name: '3',
-      img: "Du kan gætte."
+      img: "Môžeš hádať."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@
     },
     {
       name: '4',
-      img: "Ja, den er min."
+      img: "Áno, to je moje."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@
     },
     {
       name: '5',
-      img: "Dette er min nye cykel."
+      img: "Toto je môj nový bicykel."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@
     },
     {
       name: '6',
-      img: "Hvem cykel er det?"
+      img: "Čí je to bicykel?"
     },
     {
       name: '7',
@@ -55,7 +55,7 @@
     },
     {
       name: '7',
-      img: 'Det ser gammelt ud.'
+      img: 'Vyzerá staro.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@
     },
     {
       name: '8',
-      img: "Hvor gammel ser jeg ud?"
+      img: "Ako staro vyzerám?"
     },
     {
       name: '9',
@@ -71,7 +71,7 @@
     },
     {
       name: '9',
-      img: 'Du ligner et barn.'
+      img: 'Vyzeráš ako dieťa.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@
     },
     {
       name: '10',
-      img: 'Det æble er rødt.'
+      img: 'To jablko je červené.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@
     },
     {
       name: '11',
-      img: "Hvad er din yndlingsfarve?"
+      img: "Aká je tvoja obľúbená farba?"
     },
     {
       name: '12',
@@ -95,7 +95,7 @@
     },
     {
       name: '12',
-      img: "Jeg kan bedst lide den lyserøde farve."
+      img: "Najviac mám rada ružovú."
     }
   ]
 
