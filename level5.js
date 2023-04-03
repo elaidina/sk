@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Gå hen til døren."
+      img: "Choď k dverám."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Kan du lukke døren?"
+      img: "Môžeš zavrieť dvere?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Hvad laver du lige nu?"
+      img: "Čo práve robíš?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Jeg tegner en blomst."
+      img: "Kreslím kvet."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Jeg maler med mine nye vandfarver."
+      img: "Maľujem svojimi novými vodovými farbami."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Du skal spise din morgenmad."
+      img: "Musíš sa naraňajkovať."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Hvad får vi til morgenmad?"
+      img: "Čo máme na raňajky?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Der er mælk, brød og smør.."
+      img: "Je tam mlieko, chlieb a maslo."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Jeg vil ikke drikke mælk."
+      img: "Nechcem piť mlieko."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Hvad vil du gerne drikke?"
+      img: "Čo si dáte na pitie?"
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg er ikke tørstig længere.'
+      img: 'Už nie som smädný.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Jeg leder efter min pung."
+      img: "Hľadám svoju peňaženku."
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

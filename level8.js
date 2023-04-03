@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jeg vil gerne blive lærer.'
+      img: 'Chcem sa stať učiteľkou.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jeg vil gerne undervise børn.'
+      img: 'Chcem učiť deti.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hun vil være læge.'
+      img: 'Ona chce byť lekárkou.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hendes drøm er at helbrede folk.'
+      img: 'Jej snom je liečiť ľudí.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kan du køre bil?'
+      img: 'Vieš šoférovať?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ja, jeg er en god chauffør.'
+      img: 'Áno, som dobrý vodič.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Hvor mange biler har du?"
+      img: "Koľko máš áut?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Jeg har to biler og tre cykler."
+      img: "Mám dve autá a tri bicykle."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kom og spil kort med mig.'
+      img: 'Poď si so mnou zahrať karty.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jeg vil hellere spille basketball.'
+      img: 'Radšej by som hral basketbal.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Er du god til at spille fodbold?'
+      img: 'Vieš hrať futbal dobre?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Slet ikke.'
+      img: 'Vôbec nie.'
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())
