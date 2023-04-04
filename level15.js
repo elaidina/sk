@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ryd venligst op i dette rum.'
+      img: 'Urobte v tejto izbe poriadok, prosím.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jeg leder efter min pude.'
+      img: 'Hľadám svoj vankúš.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Lad os klæde vores dukker på.'
+      img: 'Oblečme naše bábiky.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hvad har dukken på?'
+      img: 'Čo má bábika na sebe?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dukken har fået blå underbukser, grønne bukser, gul t-shirt, små sko og en grøn jakke.'
+      img: 'Bábika má modré spodky, zelené nohavice, žlté tričko, topánočky a zelené sako.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Du ser så dejlig ud i denne kjole.'
+      img: 'Vyzeráš tak krásne v týchto šatách.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hun er iført en rød nederdel, hvide nickers, blå strømpebukser, en hvid bluse og en grøn jakke.'
+      img: 'Má na sebe červenú sukňu, biele nohavičky, modré pančušky, bielu blúzku a zelené sako.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De skal på tur i dag.'
+      img: 'Dnes idú na výlet.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De skal pakke en masse ting.'
+      img: 'Musia si zbaliť veľa vecí.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jeg vil ikke rejse mig.'
+      img: 'Nechcem vstávať.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Du tager dine trænere på, og du er klar til at gå.'
+      img: 'Obuješ si tenisky a môžeš ísť.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hele familien tager til landet i dag.'
+      img: 'Celá rodina ide dnes na vidiek.'
     }
   ]
 

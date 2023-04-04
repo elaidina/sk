@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hænger det på væggen?'
+      img: 'Hýbe sa?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hvordan går du i skole?'
+      img: 'Ako chodíš do školy?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Til fods, i bus, med sporvogn eller i bil?'
+      img: 'Pešo, autobusom, električkou alebo autom?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi skal lave en salat i køkkenet.'
+      img: 'Urobíme šalát v kuchyni.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi skal bruge en kniv, en ske, en skål, gulerødder, en agurk, en kål, ærter, lidt sukker og citronsaft.'
+      img: 'Potrebujeme nôž, lyžicu, misku, mrkvu, jednu uhorku, kapustu, hrášok, trochu cukru a citrónovú šťavu.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Først skærer vi grøntsagerne.'
+      img: 'Najskôr si nakrájame zeleninu.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Så blander vi alle ingredienserne sammen.'
+      img: 'Potom všetky ingrediencie spolu zmiešame.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Endelig lægger vi alt på tallerkener.'
+      img: 'Nakoniec dáme všetko na taniere.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Salaten er meget velsmagende.'
+      img: 'Šalát je veľmi chutný.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Mit værelse er i et rod.'
+      img: 'V mojej izbe je neporiadok.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Der er tøj overalt.'
+      img: 'Všade je oblečenie.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Alle mine bøger og legetøj ligger på gulvet.'
+      img: 'Všetky moje knihy a hračky sú na podlahe.'
     }
   ]
 
