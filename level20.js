@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jeg vil gerne plukke nogle blomster til min mor.'
+      img: 'Chcel by som natrhať nejaké kvety pre moju mamu.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Æblerne er modne og runde.'
+      img: 'Jablká sú zrelé a okrúhle.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3', 
-      img: 'Jeg fandt en masse gaver under juletræet.'
+      img: 'Našiel som pod vianočným stromčekom veľa darčekov.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jeg kan ikke lide at stryge.'
+      img: 'Nemám rád žehlenie.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jeg har for travlt i dag.'
+      img: 'Dnes som príliš zaneprázdnený.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Se dig omkring.'
+      img: 'Pozri sa okolo seba.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hvor mange interessante ting kan du se?'
+      img: 'Koľko zaujímavých vecí môžete vidieť?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jeg kender masser af mennesker, dyr, huse, træer og blomster.'
+      img: 'Poznám veľa ľudí, zvierat, domov, stromov a kvetov.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Men ved du alt?'
+      img: 'Ale vieš všetko?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ingen ved alt.'
+      img: 'Nikto nevie všetko.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Nogle voksne kan mange sange for børn.'
+      img: 'Niektorí dospelí poznajú veľa pesničiek pre deti.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Nogle mennesker kan ikke reparere biler."
+      img: "Niektorí ľudia nevedia opraviť autá."
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Han siger, at jeg putter mere frugt i min mave end i kurven.'
+      img: 'Hovorí, že dávam viac ovocia do bruška ako do košíka.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Om vinteren laver bedstefar et fuglehus og hænger det i træet.'
+      img: 'V zime dedko urobí búdku pre vtáky a zavesí ju na strom.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Han sætter noget mad der, så fuglene ikke er sultne i den kolde vinter.'
+      img: 'Dáva tam nejaké jedlo, aby vtáky neboli hladné v chladnej zime.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi skal beskytte dem, fordi de hjælper os.'
+      img: 'Musíme ich chrániť, pretože nám pomáhajú.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De spiser insekter.'
+      img: 'Jedia hmyz.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Nogle insekter kan skade planterne.'
+      img: 'Niektorý hmyz môže poškodiť rastliny.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hvorfor får vi ikke is til morgenmad?'
+      img: 'Prečo si nedáme na raňajky zmrzlinu?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det sner, og der blæser kold vind.'
+      img: 'Sneží a fúka studený vietor.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Teen er for bitter.'
+      img: 'Čaj je príliš horký.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Citronsaft gør det mere surt.'
+      img: 'Citrónová šťava to robí kyslejším.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg spiser min morgenmad op og går ud.'
+      img: 'Zjem raňajky a idem von.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Isen er glat.'
+      img: 'Ľad je šmykľavý.'
     }
   ]
 

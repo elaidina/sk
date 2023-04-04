@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Der er en bro over floden.'
+      img: 'Cez rieku je most.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Det gør ikke noget.'
+      img: 'Na tom nezáleží.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Vi kan drikke vand eller appelsinjuice."
+      img: "Môžeme piť vodu alebo pomarančový džús."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Du svømmer som en hund.'
+      img: 'Plávaš ako pes.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jeg svømmer som en kat.'
+      img: 'Plávam ako mačka.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kan du snakke engelsk?'
+      img: 'Vieš po anglicky?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jeg rejser på mandag.'
+      img: 'Odchádzam v pondelok.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jeg er meget ked af, at jeg er nødt til at gå.'
+      img: 'Je mi veľmi ľúto, že musím odísť.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vi vil gerne sige farvel til dig.'
+      img: 'Radi by sme sa s tebou rozlúčili.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det er ærgerligt, at du tager afsted.'
+      img: 'Škoda, že odchádzaš.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Pas på og held og lykke.'
+      img: 'Opatrujte sa a veľa šťastia.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jeg nyder meget sne i januar.'
+      img: 'V januári si užívam veľa snehu.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jeg bryder mig ikke om at hjælpe min mor i køkkenet.'
+      img: 'Nerád pomáham mame v kuchyni.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jeg leger hellere på legepladsen.'
+      img: 'Radšej sa hrám na ihrisku.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jeg dækker altid bordet.'
+      img: 'Vždy prestieram stôl.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Stuen er det største værelse i vores lejlighed.'
+      img: 'Obývačka je najväčšia miestnosť v našom byte.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Min far arbejder på sin computer her.'
+      img: 'Môj otec tu pracuje na svojom počítači.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jeg foretrækker at spille spil på computeren.'
+      img: 'Radšej hrám hry na počítači.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Små børn leger i sandkassen.'
+      img: 'Malé deti sa hrajú na pieskovisku.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Tag dine rene bukser på.'
+      img: 'Daj si čisté nohavice.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Om foråret er landet dejligt.'
+      img: 'Na jar je krajina nádherná.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Træer, enge og haver er fulde af blomster.'
+      img: 'Stromy, lúky a záhrady sú plné kvetov.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vi går til søen, som ikke ligger langt fra vores by.'
+      img: 'Ideme k jazeru, ktoré nie je ďaleko od nášho mesta.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vi leger med sand og svømmer der.'
+      img: 'Hráme sa s pieskom a plávame tam.'
     }
   ]
 
