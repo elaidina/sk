@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hvem skal lave brød?'
+      img: 'Kto bude piecť chlieb?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jeg skal spise dette brød.'
+      img: 'Zjem tento chlieb.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'De skal flytte hjem.'
+      img: 'Chystajú sa presťahovať.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Der er meget arbejde at gøre.'
+      img: 'Chystajú sa presťahovať.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi skal sortere de ting, vi gerne vil beholde, og de ting, vi kan smide ud.'
+      img: 'Musíme vytriediť veci, ktoré si chceme ponechať, a veci, ktoré môžeme vyhodiť.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Killingerne blev ved med at komme i vejen.'
+      img: 'Mačiatka stále zavadzali.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Endelig var det dagen for flytningen.'
+      img: 'Konečne nastal deň sťahovania.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vi så mændene pakke ting og sætte dem i varevognen.'
+      img: 'Sledovali sme mužov, ako balili veci a ukladali ich do dodávky.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det tog lang tid.'
+      img: 'Trvalo to dlho.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Da huset var ret tomt, var vi lidt kede af det.'
+      img: 'Keď bol dom celkom prázdny, bolo nám trochu smutno.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Min bror bar guldfisken i deres tank.'
+      img: 'Môj brat nosil zlatú rybku v ich nádrži.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Babyen trængte til en kram.'
+      img: 'Bábätko sa potrebovalo túliť.'
     }
   ]
 

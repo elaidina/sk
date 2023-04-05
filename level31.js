@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det var næsten tid til te, så de gik alle indendørs for at vaske hænder.'
+      img: 'Už bol skoro čas na čaj, takže všetci išli dovnútra umyť si ruky.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tom løsnede trappeporten, og Josie hjalp sin søster med at gå op ad trappen.'
+      img: 'Tom otvoril schodiskovú bránu a Josie pomohla svojej sestre vyjsť po schodoch.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jeg sørgede for, at vandet ikke var for varmt.'
+      img: 'Uistil som sa, že voda nie je príliš horúca.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi vaskede alle vores hænder.'
+      img: 'Všetci sme si umyli ruky.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jeg ville se ud af badeværelsesvinduet.'
+      img: 'Chcel som sa pozrieť z okna v kúpeľni.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vær forsigtig, tak.'
+      img: 'Buď opatrný, prosím.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det er ikke sikkert at læne sig ud af vinduer.'
+      img: 'Nie je bezpečné vykláňať sa z okien.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det ville jeg ikke.'
+      img: 'Nechystal som sa.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tom løb ud af badeværelset og holdt døren lukket.'
+      img: 'Tom vybehol z kúpeľne a podržal dvere zatvorené.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Slip mig ud, Tom.'
+      img: 'Pusti ma von, Tom.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Det er farligt at lege med døre.'
+      img: 'Je nebezpečné hrať sa s dverami.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Nogens fingre kan blive fanget.'
+      img: 'Niekomu by sa mohli zachytiť prsty.'
     }
   ]
 

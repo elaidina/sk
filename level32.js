@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Stå ikke i nærheden af komfuret.'
+      img: 'Nestojte blízko sporáka.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Det er meget varmt, og du kan brænde dig selv.'
+      img: 'Je to veľmi horúce a môžete sa popáliť.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Åh nej, jeg har spildt min mælk.'
+      img: 'Ach nie, rozlial som mlieko.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom gik for at hente en moppe fra rengøringsskabet.'
+      img: 'Tom išiel po mop z upratovacej skrine.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Inde i skabet var alle de ting, vi skal bruge for at holde huset rent.'
+      img: 'V skrini boli všetky veci, ktoré potrebujeme na udržanie čistoty v dome.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sikke mange flasker!'
+      img: 'Aké množstvo fliaš!'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jeg holder skabslågen låst.'
+      img: 'Dvere skrine nechávam zamknuté.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Efter te så vi en film på tv.'
+      img: 'Po čaji sme pozerali film v televízii.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Katten legede på gulvet.'
+      img: 'Mačka sa hrala na podlahe.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Katten har et lille legetøj.'
+      img: 'Mačka má maličkú hračku.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Spyt det ud!'
+      img: 'Vypľuj to!'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Du kunne sluge det og blive kvalt.'
+      img: 'Mohli by ste to prehltnúť a udusiť sa.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Jeg har fundet dine babyer."
+      img: "Našiel som tvoje deti."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Lad være med at gøre det!'
+      img: 'Nerob to!'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Når det er rødt, skal vi stoppe og vente, indtil det er grønt igen.'
+      img: 'Keď je červená, musíme zastaviť a počkať, kým bude opäť zelená.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hold godt om mine hænder.'
+      img: 'Drž ma pevne za ruky.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dette er en meget befærdet vej.'
+      img: 'Toto je veľmi frekventovaná cesta.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vi skal finde en sikker passage.'
+      img: 'Musíme nájsť bezpečný prechod.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Se, der er lyskryds.'
+      img: 'Pozri, sú tu semafory.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jeg trykkede på knappen og snart stoppede trafikken.'
+      img: 'Stlačil som tlačidlo a premávka sa čoskoro zastavila.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den grønne mand viste os, at vi skulle krydse nu.'
+      img: 'Zelený muž nám ukázal, že by sme teraz mali prejsť.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han bippede for at skynde os.'
+      img: 'Pípol, aby nás poponáhľal.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hun var glad for at se sin ven.'
+      img: 'Bola rada, že vidí svojho priateľa.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De spillede fodbold i haven.'
+      img: 'Hrali futbal v záhrade.'
     }
   ]
 
