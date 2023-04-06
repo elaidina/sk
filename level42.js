@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Så snart han kom hjem, prøvede han sin nye tandbørste.'
+      img: 'Hneď ako sa vrátil domov, vyskúšal svoju novú zubnú kefku.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     { 
       name: '2',
-      img: 'Michelle var meget begejstret.'
+      img: 'Michelle bola veľmi nadšená.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det skulle snart være jul, så hun skrev sine ønsker.'
+      img: 'Čoskoro budú Vianoce, tak napísala svoje želania.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi tog vores huer, frakker, tørklæder og handsker på, fordi det var koldt udenfor.'
+      img: 'Nasadili sme si čiapky, kabáty, šály a rukavice, pretože vonku bola zima.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Der var masser af familier, der valgte juletræer i Havecentret.'
+      img: 'V záhradnom centre si vyberalo vianočné stromčeky veľa rodín.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Hvilket træ skal vi få?'
+      img: 'Ktorý strom si máme vziať?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jeg kan godt lide den, fordi den er virkelig stor.'
+      img: 'Ten sa mi páči, pretože je naozaj veľký.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Den er for stor til at passe i vores bil.'
+      img: 'Je príliš veľký na to, aby sa zmestil do nášho auta.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De blev enige om et meget flot mindre træ.'
+      img: 'Dohodli sa na veľmi peknom menšom stromčeku.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Far hentede en vogn til træet.'
+      img: 'Ocko priniesol vozík pre strom.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Børnene hjalp med at skubbe vognen.'
+      img: 'Deti pomáhali tlačiť vozík.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De kunne vælge to nye trædekorationer.'
+      img: 'Mohli si vybrať dve nové ozdoby na stromček.'
     }
   ]
 

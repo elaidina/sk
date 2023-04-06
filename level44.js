@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Bare glem ikke at hænge dine strømper op.'
+      img: 'Len si nezabudni zavesiť pančuchy.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi vil efterlade en gulerod til dine rensdyr.'
+      img: 'Necháme mrkvu pre tvojho soba.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mumien kiggede ind for at se, hvordan det gik dem.'
+      img: 'Mamička nakukla, aby zistila, ako sa im darí.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Har de været gode?'
+      img: 'Boli dobrí?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hun spurgte julemanden.'
+      img: 'Spýtala sa otca Vianoc.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Så godt, at de fortjener en lille gave at åbne, når de kommer hjem.'
+      img: 'Tak dobré, že si zaslúžia malý darček, ktorý otvoria, keď sa vrátia domov.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Han trak en gave frem til Tom fra en sæk.'
+      img: 'Z vreca vytiahol darček pre Toma.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Tusind tak.'
+      img: 'Ďakujem veľmi pekne.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Så snart han var tilbage i bilen, åbnede han sin gave.'
+      img: 'Len čo sa vrátil do auta, otvoril svoj darček.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jeg har solbriller!'
+      img: 'Mám slnečné okuliare!'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Han var meget tilfreds.'
+      img: 'Veľmi sa potešil.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det sneede meget, mens han sov.'
+      img: 'Keď spal, veľa snežilo.'
     }
   ]
 

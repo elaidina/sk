@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De havde en vidunderlig tid i skoven.'
+      img: 'V lese mali nádherné chvíle.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De svingede fra træer som aber.'
+      img: 'Hojdali sa zo stromov ako opice.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jeg er junglens konge!'
+      img: 'Som kráľ džungle!'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'De jagtede kaniner og forsøgte at fange dem.'
+      img: 'Naháňali zajace a snažili sa ich chytiť.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Men kaninerne løb hurtigere.'
+      img: 'Ale zajace bežali rýchlejšie.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jeg fangede næsten en, men den løb ned i et kaninhul.'
+      img: 'Takmer som jedného chytil, ale utiekol do zajačej nory.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Til sidst begyndte de at føle sig sultne.'
+      img: 'Nakoniec začali pociťovať hlad.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ingen af dem havde fået morgenmad.'
+      img: 'Nikto z nich neraňajkoval.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De ville tilbage til lejren, men de vidste ikke, hvilken vej de skulle gå.'
+      img: 'Chceli sa vrátiť do tábora, ale nevedeli, ktorým smerom majú ísť.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vi er faret vild.'
+      img: 'Sme stratení.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jeg kom lige for at finde dig.'
+      img: 'Práve som ťa prišiel nájsť.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hvad har du været i gang med?'
+      img: 'Čo si robil?'
     }
   ]
 

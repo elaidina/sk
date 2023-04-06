@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'På vej hjem kom de forbi en slikbutik.'
+      img: 'Cestou domov prešli okolo cukrárne.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jeg kunne godt tænke mig noget slik, men jeg vil ikke have tandpine som Tom.'
+      img: 'Chcel by som nejaké sladkosti, ale nechcem, aby ma boleli zuby ako Toma.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Der er andre velsmagende ting, der er bedre for dig.'
+      img: 'Sú iné chutné veci, ktoré sú pre teba lepšie.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Så de købte to knasende æbler af grønthandleren.'
+      img: 'Tak si kúpili dve chrumkavé jablká od zeleninára.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Så gik de til apoteket for at købe nye tandbørster.'
+      img: 'Potom išli do lekárne kúpiť nové zubné kefky.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Apoteket fortalte dem om at afsløre tabletter.'
+      img: 'Lekárnik im povedal o odhalovacích tabletkách.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Bare tyg en halv tablet, og skyl derefter munden med vand.'
+      img: 'Stačí rozžuť polovicu tablety a potom si vypláchnuť ústa vodou.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Han forklarede.'
+      img: 'Vysvetlil.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De dele af dine tænder, der har mest brug for rensning, bliver lyserøde.'
+      img: 'Časti zubov, ktoré najviac vyžadujú čistenie, sa sfarbia do ružova.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vi ville se sjovt ud at gå på legeplads med lyserøde tænder.'
+      img: 'Vyzerali by sme smiešne ísť na ihrisko s ružovými zubami.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Kemikeren lo.'
+      img: 'Chemik sa zasmial.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Når der ikke er lyserødt tilbage, ved du, at dine tænder er rene.'
+      img: 'Keď nezostane žiadna ružová, vieš, že máš čisté zuby.'
     }
   ]
 
