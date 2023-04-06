@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Og spis eller drik ikke i sengen.'
+      img: 'A nejedzte a nepite v posteli.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ikke engang vand?'
+      img: 'Ani voda?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Kun vand.'
+      img: 'Len vodu.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Søde drikke kan skade dine tænder lige så meget som sød mad.'
+      img: 'Sladké nápoje môžu poškodiť zuby rovnako ako sladké jedlo.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kom tilbage og se mig snart.'
+      img: 'Vráťte sa a čoskoro ma uvidíte.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Før de tog hjem skrev receptionisten datoen for deres næste besøg ned.'
+      img: 'Skôr ako odišli domov, recepčná zapísala dátum ich ďalšej návštevy.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Den lille dreng prøvede ikke at græde.'
+      img: 'Malý chlapec sa snažil neplakať.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hvad er der i vejen, Tom?'
+      img: 'Čo sa deje, Tom?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jeg har tandpine.'
+      img: 'Mám bolesti zubov.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han spiser for mange søde sager.'
+      img: 'Jedáva príliš veľa sladkostí.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'NevadíLige meget om det.'
+      img: 'Nevadí.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mrs White vil gøre det bedre.'
+      img: 'Pani Whiteová to vylepší.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det var tid for Tom til at shoppe.'
+      img: 'Bol čas, aby sa Tom vybral na nákup.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mens jeg sad i venteværelset, læste hun tegneserier.'
+      img: 'Kým som sedel v čakárni, ona čítala komiksy.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Døren åbnede sig, og præsidenten kom ud.'
+      img: 'Dvere sa otvorili a vyšiel prezident.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tom smilede til mig.'
+      img: 'Tom sa na mňa usmial.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hvorfor skal du have bøjle på tænderne?'
+      img: 'Prečo musíš nosiť na zuboch strojček?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'At gøre mine tænder lige.'
+      img: 'Aby som mal rovné zuby.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Laura er klar til at se dig nu.'
+      img: 'Laura je pripravená ťa teraz vidieť.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Dette er en dejlig ren lugt.'
+      img: 'Toto je pekná čistá vôňa.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hvem vil gå først?'
+      img: 'Kto chce ísť prvý?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom kravlede op i tandlægestolen.'
+      img: 'Tom vyliezol do zubárskeho kresla.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mrs White trykkede på en knap, og stolen vippede tilbage.'
+      img: 'Pani Whiteová stlačila tlačidlo a stolička sa naklonila dozadu.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom følte sig som en raketpilot.'
+      img: 'Tom sa cítil ako pilot rakety.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tom iagttog hende.'
+      img: 'Tom ju sledoval.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mrs White skubbede sølvfilen ind i hullet på Toms tand.'
+      img: 'Pani Whiteová vtlačila striebornú náplň do otvoru Tomovho zuba.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hun trykkede den ned og gjorde den helt glat.'
+      img: 'Stlačila to a urobila to úplne hladké.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'God som ny!'
+      img: 'Skvelé ako nové!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Gjorde det ondt?'
+      img: 'Bolelo to?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Dorren var støjende.'
+      img: 'Vŕtačka bola hlučná.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Men det gjorde ikke ondt.'
+      img: 'Ale nebolelo to.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'I har begge gode tænder.'
+      img: 'Obaja máte dobré zuby.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hold dem sådan.'
+      img: 'Nechaj ich tak.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Spis en masse forskellig mad.'
+      img: 'Jedzte veľa rôznych jedál.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Men husk, sød mad kan skade dine tænder, så spis dem ikke for ofte.'
+      img: 'Ale pamätajte, že sladké jedlá môžu poškodiť vaše zuby, takže ich nejedzte príliš často.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Glem aldrig at rense dine tænder om morgenen og ved sengetid med en floride tandpasta."
+      img: "Nikdy si nezabudnite vyčistiť zuby ráno a pred spaním floridovou zubnou pastou."
     }
   ]
 
