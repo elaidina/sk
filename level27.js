@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Bábätko sa potrebovalo túliť.'
+      img: 'Bábätko sa potrebovalo pritúliť.'
     }
   ]
 

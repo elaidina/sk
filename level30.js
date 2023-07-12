@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Aj jej malá sestra sa chcela hrať.'
+      img: 'Kopla loptu vysoko do vzduchu a Jamie sa za ňou rozbehol.'
     },
     {
       name: '3',

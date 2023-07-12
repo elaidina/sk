@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jej dedina nie je ďaleko od mesta.'
+      img: 'Ideme s nimi.'
     },
     {
       name: '4',
